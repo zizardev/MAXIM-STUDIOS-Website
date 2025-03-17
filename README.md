@@ -1,2 +1,2 @@
 # Official website MaxOS
-[link](https://zizardev.github.io/website/index.html)
+[link](https://zizardev.github.io/maxos-website/index.html)
